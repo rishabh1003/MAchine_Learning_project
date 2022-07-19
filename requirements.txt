@@ -1,7 +1,8 @@
 Flask
 gunicorn
-numpy
 sklearn
 PyYAML
 pandas 
+numpy
+
 
